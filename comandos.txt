@@ -1,3 +1,4 @@
+git pull
 git init
 git status
 git commit -a -m 'Gabriel'
@@ -5,3 +6,4 @@ git push origin master
 git remote add origin https://github.com/gymoreira/git.git
 git push -u origin master
 http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/
+...
